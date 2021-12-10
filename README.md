@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <h1 align="center">
      <a href="#" alt="">Jogo Memória</a>
@@ -80,3 +81,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <h1>Para testar o Jogo e a respansividade acesse:
 https://jogodamemoria-swart.vercel.app/</h1>
+=======
+# Jogo da Memoria aula de Javascript Erick Wendel
+#Para testar o Jogo e a respansividade acesse:
+https://jogodamemoria-three.vercel.app/
+>>>>>>> 87757846dbc23c8937b6394e8e4f17c57419cdbf
