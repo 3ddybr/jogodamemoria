@@ -78,4 +78,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 <h1>Para testar o Jogo e a respansividade acesse:
-https://jogodamemoria-swart.vercel.app/</h1>
+https://jogodamemoria-fltsjuob9-3ddybr.vercel.app/</h1>
